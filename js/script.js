@@ -5,7 +5,7 @@ const liste_chap = [
     ["Langage et Art poétique", true, "https://docs.google.com/document/d/1p_w8dWlGZ2fv07uQo_Ry25cGWfDczn8dpOVDkYMKuxA/edit?usp=sharing"], // Chapitre 4, terminé
     ["Etat et Justice", true, "https://docs.google.com/document/d/1iFhF6x0oXNTN9rpD_VV2GVzdRuAX3Fsb8XUN1rdE-0g/edit?usp=sharing"], // Chapitre 5, terminé
     ["Le bonheur", false, "https://docs.google.com/document/d/1FIBezOdRksIloRQwRrxmfJn-W9ejL-PcydCLSy9KbUA/edit?usp=sharing"], // Chapitre 6, en cours
-    ["Science et Art", false, "https://docs.google.com/document/d/1OB38rtu_yz6XkAGSwK76j5S54Hx7TfRLGMR4u3TnJHw/edit?usp=sharing7"] // Chapitre 7, en cours
+    ["Science et Art", false, "https://docs.google.com/document/d/1OB38rtu_yz6XkAGSwK76j5S54Hx7TfRLGMR4u3TnJHw/edit?usp=sharing7"], // Chapitre 7, en cours
     ["La religion", true, "https://docs.google.com/document/d/1PBuD0zxM21nX2IN3sk-HF-_JDfkZjhNiEzXjlNuOlko/edit?usp=sharing"] // Chapitre 8, terminé
 ];
 
